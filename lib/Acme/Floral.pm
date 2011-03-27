@@ -2,7 +2,7 @@ package Acme::Floral;
 use 5.008;
 use B::Deobfuscate;
 
-$VERSION = '1.03';
+$VERSION = '1.04';
 
 sub ArrangeTheFlowers {
   local $_ = shift;
@@ -458,11 +458,11 @@ L<http:E<sol>E<sol>www.cpan.org> for more details.
 
 =head1 AUTHOR
 
-Joshua b. Jore E<lt>jjore@cpan.orgE<gt>
+Josh Jore E<lt>jjore@cpan.orgE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2003 by Joshua b. Jore. All rights reserved.
+Copyright 2003-2011 by Josh Jore. All rights reserved.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
